@@ -1,0 +1,964 @@
+{
+    "platform": {
+        "ssrPropsUpdates": [],
+        "ssrStyleUpdates": [],
+        "ssrStructureUpdates": []
+    },
+    "pages": {
+        "compIdToTypeMap": {
+            "comp-kquv0ahv": "WRichText",
+            "comp-kqx1l3rl": "WRichText",
+            "comp-kqx1l3rl1": "WRichText",
+            "comp-kqx1l3zi": "DropDownMenu",
+            "SCROLL_TO_TOP": "Anchor",
+            "SCROLL_TO_BOTTOM": "Anchor",
+            "masterPage": "MasterPage",
+            "SITE_FOOTER": "FooterContainer",
+            "PAGES_CONTAINER": "PagesContainer",
+            "SITE_HEADER": "HeaderContainer",
+            "SITE_PAGES": "PageGroup",
+            "comp-kqx1l3rj": "StripColumnsContainer",
+            "comp-kqx1l3rk": "Column",
+            "comp-kqx1l3rm": "Column",
+            "BACKGROUND_GROUP": "BackgroundGroup",
+            "SITE_HEADER_WRAPPER": "ContainerWrapper",
+            "SITE_FOOTER_WRAPPER": "ContainerWrapper",
+            "SKIP_TO_CONTENT_BTN": "SkipToContentButton",
+            "pageBackground_nayb2": "PageBackground",
+            "nayb2": "Page",
+            "comp-lnjoihkp": "ClassicSection",
+            "comp-kqxtj197": "tpaWidgetNative",
+            "Containernayb2": "Group",
+            "DYNAMIC_STRUCTURE_CONTAINER": "DynamicStructureContainer",
+            "site-root": "DivWithChildren",
+            "main_MF": "DivWithChildren",
+            "nayb2_wrapper": "PageMountUnmount",
+            "nayb2_wrapper_background": "PageMountUnmount"
+        }
+    },
+    "appsWarmupData": {
+        "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+            "pg_experiments": {
+                "specs.pro-gallery.usePictureElement": "true",
+                "specs.LocalizationTranslationFlowSpec": "true",
+                "specs.pro-gallery.EnableAlbumsStorePremiumValidation": "true",
+                "specs.pro-gallery.enableFullResFeatureViewer": "true",
+                "specs.pro-gallery.addSEOVideoMetaTags": "false",
+                "specs.pro-gallery.useUnchangingImageRenderer": "true",
+                "specs.pro-gallery.enablePGRenderIndicator": "false",
+                "specs.pro-gallery.excludeFromWarmupData": "false",
+                "specs.pro-gallery.useReactionService": "true",
+                "specs.pro-gallery.excludeFromLayoutFixer": "false",
+                "specs.pro-gallery.useIsInFirstFold": "false",
+                "specs.pro-gallery.useWowImageRenderer": "false",
+                "specs.pro-gallery.useWarmupData": "true",
+                "specs.pro-gallery.useNewReactionsCalculation-Rollout": "true",
+                "specs.pro-gallery.finalReplaceSlideshow": "true",
+                "specs.pro-gallery.useReactPortalInArtStore": "true",
+                "specs.pro-gallery.blockOAP": "false",
+                "specs.pro-gallery.useServerBlueprints-viewer": "false",
+                "specs.pro-gallery.excludeFromThinLinesFix": "false",
+                "specs.pro-gallery.removeRoleApplication": "true",
+                "specs.pro-gallery.horizontalTitlePlacementOptionsViewer": "true",
+                "specs.pro-gallery.disableImagePreload": "true",
+                "specs.pro-gallery.blockCropOnSSR": "true",
+                "specs.pro-gallery.excludeFromPrerenderPerformance": "false",
+                "specs.pro-gallery.appSettings": "true"
+            },
+            "comp-kqxtj197_appSettings": {
+                "pageId": "d34uk",
+                "styleId": "style-jyem87tx",
+                "upgrades": {
+                    "fullscreen": {
+                        "date": "Tue Dec 11 2018 18:15:52 GMT+0300 (Москва, стандартное время)"
+                    }
+                },
+                "galleryId": "fbeebe60-d9e2-4457-aba3-1767954768bc",
+                "layoutTeaserShowed": true
+            },
+            "comp-kqxtj197_galleryData": {
+                "items": [
+                    {
+                        "itemId": "8536b8f6-ed4a-4b53-92f0-a549045387c7",
+                        "isSecure": false,
+                        "createdDate": "2023-11-02T14:35:12Z",
+                        "orderIndex": -1696502577897.4739,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 308,
+                                "width": 557,
+                                "url": "dba5d8_b7079d2b5099478189a9ab900060a8fa~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "84KinebHRG4",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/84KinebHRG4",
+                            "videoId": "84KinebHRG4"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "0e371f62-1c3f-4bdf-8038-c3e44befa1ce",
+                        "isSecure": false,
+                        "createdDate": "2023-10-10T02:13:11Z",
+                        "orderIndex": -1694069434300.9478,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 265,
+                                "width": 476,
+                                "url": "dba5d8_8157623d719544039138eaf05e622dca~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "F7SAc_QstLs",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/F7SAc_QstLs",
+                            "videoId": "F7SAc_QstLs"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "abf6c13e-cb45-4c00-9388-32de68f6e005",
+                        "isSecure": false,
+                        "createdDate": "2023-10-10T02:05:31Z",
+                        "orderIndex": -1685565181815.791,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 359,
+                                "width": 635,
+                                "url": "dba5d8_36078e50c87443b6b4f96e8d32d0efae~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "zzZfMTeWHI8",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/zzZfMTeWHI8?si=oI3oCXULJ_uK39rA",
+                            "videoId": "zzZfMTeWHI8"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "4ddf4e05-8581-4fe9-afdb-be6d38363f3e",
+                        "isSecure": false,
+                        "createdDate": "2023-02-06T11:29:48Z",
+                        "orderIndex": -1674226515867.582,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 510,
+                                "width": 908,
+                                "url": "dba5d8_273dcbbdd1f14a3988243daa7b4e6dcb~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "IIlsTm6pBPY",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/IIlsTm6pBPY",
+                            "videoId": "IIlsTm6pBPY"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "672e9d94-48f7-46cb-9c15-f83e108f0e17",
+                        "isSecure": false,
+                        "createdDate": "2023-01-22T02:49:30Z",
+                        "orderIndex": -1672770000249.1638,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 609,
+                                "width": 1094,
+                                "url": "dba5d8_ee75f628d4d2456d869ca8106d0814e3~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "oQVswpw23no",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/oQVswpw23no",
+                            "videoId": "oQVswpw23no"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "52d0d35b-8a85-4ae1-9cf1-c6f659ed8f08",
+                        "isSecure": false,
+                        "createdDate": "2022-12-25T04:52:32Z",
+                        "orderIndex": -1671184174651.3276,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 371,
+                                "width": 665,
+                                "url": "dba5d8_88e50eea8d4f4fff80d021f78f03170f~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "FxzXvnHzYbk",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/FxzXvnHzYbk",
+                            "videoId": "FxzXvnHzYbk"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "978ff260-dec3-4ace-a82f-be783cc52999",
+                        "isSecure": false,
+                        "createdDate": "2022-12-25T04:53:30Z",
+                        "orderIndex": -1670423978549.6553,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 413,
+                                "width": 740,
+                                "url": "dba5d8_42da227f62a742c18f37b596e9b4c889~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "n81eB5G_lu4",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/n81eB5G_lu4",
+                            "videoId": "n81eB5G_lu4"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "9a329031-3c7e-47bc-82db-693fe55e522e",
+                        "isSecure": false,
+                        "createdDate": "2023-10-10T02:17:36Z",
+                        "orderIndex": -1670043882976.319,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 180,
+                                "width": 320,
+                                "url": "dba5d8_82b38fd3849e4f4aad583ea515c623ea~mv2.jpg"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "6AuKMQ2y8BI",
+                            "posters": [
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "url": "dba5d8_699d381ef1aa42899a12a9970f29a8d9~mv2.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/6AuKMQ2y8BI",
+                            "videoId": "6AuKMQ2y8BI"
+                        },
+                        "mediaUrl": "dba5d8_699d381ef1aa42899a12a9970f29a8d9~mv2.jpg"
+                    },
+                    {
+                        "itemId": "76479d07-b351-497c-8d69-dc821474d652",
+                        "isSecure": false,
+                        "createdDate": "2023-10-10T02:14:56Z",
+                        "orderIndex": -1669663787402.983,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 180,
+                                "width": 320,
+                                "url": "dba5d8_4eae6587240a4db09e2a2c658311519a~mv2.jpg"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "KRabGOQw25Y",
+                            "posters": [
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "url": "dba5d8_4f358ebc43084ade92fe0f9ab96c964a~mv2.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/KRabGOQw25Y",
+                            "videoId": "KRabGOQw25Y"
+                        },
+                        "mediaUrl": "dba5d8_4f358ebc43084ade92fe0f9ab96c964a~mv2.jpg"
+                    },
+                    {
+                        "itemId": "a60fd56e-4e44-4f51-9021-66358429e44e",
+                        "isSecure": false,
+                        "createdDate": "2022-12-25T04:54:16Z",
+                        "orderIndex": -1668903596256.3103,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 413,
+                                "width": 735,
+                                "url": "dba5d8_7ec74c6f8edf4ae397741fe596b620cc~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "w2t4VPCg9SE",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/w2t4VPCg9SE",
+                            "videoId": "w2t4VPCg9SE"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "9f7db5e9-87f8-4e39-8e2a-c803688ae902",
+                        "isSecure": false,
+                        "createdDate": "2023-10-10T02:18:54Z",
+                        "orderIndex": -1667383218928.9653,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 362,
+                                "width": 636,
+                                "url": "dba5d8_cc5cc7b1c6284ddca4b2eabd41962da7~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "hMU8b49ww30",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/hMU8b49ww30",
+                            "videoId": "hMU8b49ww30"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "2368817f-c314-4a96-b49f-344558959dd6",
+                        "isSecure": false,
+                        "createdDate": "2022-12-25T04:55:31Z",
+                        "orderIndex": -1665862841601.6206,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 349,
+                                "width": 625,
+                                "url": "dba5d8_7f0632b7272c471cb8355626890b5399~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "tpBsyD6tRS4",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/tpBsyD6tRS4",
+                            "videoId": "tpBsyD6tRS4"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "57443cc9-cd73-4fbf-8d94-5a14df158e11",
+                        "isSecure": false,
+                        "createdDate": "2022-09-28T14:12:59Z",
+                        "orderIndex": -1659781518504.241,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 678,
+                                "width": 1226,
+                                "url": "dba5d8_ec112d47c1374c51bfa4a5431aa32197~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "N3avE1ocOuk",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/N3avE1ocOuk",
+                            "videoId": "N3avE1ocOuk"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "9bdf1f19-b79a-4e61-b955-9c7613518e54",
+                        "isSecure": false,
+                        "createdDate": "2023-02-06T11:46:35Z",
+                        "orderIndex": -1659016032359.1145,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 474,
+                                "width": 362,
+                                "url": "dba5d8_a46bf71aeef54c9fa11361d9b8186f3c~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "mA_04cR1cFo",
+                            "posters": [
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "url": "dba5d8_a1942d22a8ae404caf94d263e32c0f6f~mv2.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/mA_04cR1cFo",
+                            "videoId": "mA_04cR1cFo"
+                        },
+                        "mediaUrl": "dba5d8_a1942d22a8ae404caf94d263e32c0f6f~mv2.jpg"
+                    },
+                    {
+                        "itemId": "668d0c6c-a3ac-4d78-ad65-dd26a01106f9",
+                        "isSecure": false,
+                        "createdDate": "2023-02-06T11:47:57Z",
+                        "orderIndex": -1658250546213.988,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 488,
+                                "width": 358,
+                                "url": "dba5d8_b7f9d6207b67489aa765080163a2fe63~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "8-D8N8clLLM",
+                            "posters": [
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "url": "dba5d8_7834ef2666d64db692bca5403b8164bc~mv2.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/8-D8N8clLLM",
+                            "videoId": "8-D8N8clLLM"
+                        },
+                        "mediaUrl": "dba5d8_7834ef2666d64db692bca5403b8164bc~mv2.jpg"
+                    },
+                    {
+                        "itemId": "4c977922-6eee-4089-94c9-aa9c35bb0f5d",
+                        "isSecure": false,
+                        "createdDate": "2023-02-06T11:48:36Z",
+                        "orderIndex": -1657485060068.8613,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 487,
+                                "width": 354,
+                                "url": "dba5d8_c1411bedb9b74d67907ce8d9b5a323e0~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "UTXp9TblVLM",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/UTXp9TblVLM",
+                            "videoId": "UTXp9TblVLM"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "e8852459-8fcf-4702-96da-1bfca0fd18f8",
+                        "isSecure": false,
+                        "createdDate": "2023-02-06T11:54:16Z",
+                        "orderIndex": -1656719573923.7349,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 545,
+                                "width": 356,
+                                "url": "dba5d8_ee288aeb3b344105a04ec4faac6d6d30~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "sClj5H5GGis",
+                            "posters": [
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "url": "dba5d8_2668513e99b1464f9a8740a3c5b6d707~mv2.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/sClj5H5GGis",
+                            "videoId": "sClj5H5GGis"
+                        },
+                        "mediaUrl": "dba5d8_2668513e99b1464f9a8740a3c5b6d707~mv2.jpg"
+                    },
+                    {
+                        "itemId": "f7656fda-dcf9-4f79-b486-725d8d1b3033",
+                        "isSecure": false,
+                        "createdDate": "2023-02-06T12:00:16Z",
+                        "orderIndex": -1655954087778.6084,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 520,
+                                "width": 485,
+                                "url": "dba5d8_3aa92a3a172a4b4fa5af258c216c03cc~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "QZBaIbWWJKc",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/QZBaIbWWJKc",
+                            "videoId": "QZBaIbWWJKc"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "66793dae-3ca3-492f-8d2a-0a406f189156",
+                        "isSecure": false,
+                        "createdDate": "2022-08-15T01:12:28Z",
+                        "orderIndex": -1655188601633.482,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 614,
+                                "width": 1100,
+                                "url": "dba5d8_2ca3818da0cb4c78a728be91392c5c70~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "wyTZ1aemd1Y",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/wyTZ1aemd1Y",
+                            "videoId": "wyTZ1aemd1Y"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "8178eb1a-bd88-4bac-9a3b-8e49f713beba",
+                        "isSecure": false,
+                        "createdDate": "2022-08-15T01:10:54Z",
+                        "orderIndex": -1649851202231.9639,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 666,
+                                "width": 1190,
+                                "url": "dba5d8_78b606655dd54baaa3b81150e80ed987~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "xrdcsZ0lLIE",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/xrdcsZ0lLIE",
+                            "videoId": "xrdcsZ0lLIE"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "526e49c9-b9d9-4bc3-a566-80a9283f4a76",
+                        "isSecure": false,
+                        "createdDate": "2022-12-25T05:02:55Z",
+                        "orderIndex": -1644513853690.9458,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 444,
+                                "width": 799,
+                                "url": "dba5d8_155a55e3e6454512a90da810534ea487~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "kUKriWd7fQw",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/kUKriWd7fQw",
+                            "videoId": "kUKriWd7fQw"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "82a0c363-7767-4f4a-b3f6-2bde663c5986",
+                        "isSecure": false,
+                        "createdDate": "2022-02-11T11:30:16Z",
+                        "orderIndex": -1639176505149.9277,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 458,
+                                "width": 1114,
+                                "url": "dba5d8_cd2078be531749cca7e0b4b590342ef7~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "BxoRfwwc6fo",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/BxoRfwwc6fo",
+                            "videoId": "BxoRfwwc6fo"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "75d08427-51f3-4346-a7ca-5291ad55d59b",
+                        "isSecure": false,
+                        "createdDate": "2023-10-10T02:11:45Z",
+                        "orderIndex": -1636475197054.3916,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 358,
+                                "width": 638,
+                                "url": "dba5d8_58a6f19b6d944e24a03db5a9415d9fad~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "qNEdNFy080g",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/qNEdNFy080g",
+                            "videoId": "qNEdNFy080g"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "72524689-095f-4fba-940e-1729d9f95993",
+                        "isSecure": false,
+                        "createdDate": "2022-02-11T11:28:48Z",
+                        "orderIndex": -1633773888958.8552,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 1140,
+                                "width": 640,
+                                "url": "dba5d8_c0e68a1f25c64601b21f077092d7db2c~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "hdREygCUMfE",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/hdREygCUMfE",
+                            "videoId": "hdREygCUMfE"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    },
+                    {
+                        "itemId": "99b46141-3af8-4f4e-a0ec-1b2a0ea25bdc",
+                        "isSecure": false,
+                        "createdDate": "2022-02-14T09:02:03Z",
+                        "orderIndex": -1628371278355.2827,
+                        "metaData": {
+                            "link": {
+                                "type": "none",
+                                "target": "_blank"
+                            },
+                            "type": "video",
+                            "customPoster": {
+                                "height": 496,
+                                "width": 1166,
+                                "url": "dba5d8_64ec4347a71947308a8fcd98198d2aa2~mv2.png"
+                            },
+                            "isExternal": true,
+                            "height": 1080,
+                            "width": 1920,
+                            "name": "o7XA2K25lBE",
+                            "posters": [
+                                {
+                                    "height": 1080,
+                                    "width": 1920,
+                                    "url": "maxresdefault.jpg"
+                                }
+                            ],
+                            "qualities": [],
+                            "duration": 0,
+                            "source": "youtube",
+                            "videoUrl": "https:\/\/youtu.be\/o7XA2K25lBE",
+                            "videoId": "o7XA2K25lBE"
+                        },
+                        "mediaUrl": "maxresdefault.jpg"
+                    }
+                ],
+                "totalItemsCount": 111
+            }
+        }
+    },
+    "ooi": {
+        "failedInSsr": {}
+    }
+}
